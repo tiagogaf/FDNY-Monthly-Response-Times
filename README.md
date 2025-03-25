@@ -1,3 +1,14 @@
+# How to run:
+## Install depencies
+`yarn install`
+## Run the server
+`yarn dev`
+
+## Screenshot:
+
+<img width="861" alt="image" src="https://github.com/user-attachments/assets/410bd0ab-243b-4b53-8a13-c03be57d0dc2" />
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
